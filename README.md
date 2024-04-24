@@ -2,9 +2,9 @@
 
 source code
 
-FSMCFI:the collaborative reduction method of features and instances for the high-dimensional set-valued decision system based on incremental updating of semi-monolayer covering rough set.
+FSMC_CR:the collaborative reduction method of features and instances for the high-dimensional set-valued decision system based on incremental updating of semi-monolayer covering rough set.
 
-The source code in this paper have all been sorted out to
+The source code in this paper have all been sorted out to https://pan.baidu.com/s/1bRo-eaU4AQlNjAh6MsL-gw?pwd=lo51
 
 
 Thesis data set
